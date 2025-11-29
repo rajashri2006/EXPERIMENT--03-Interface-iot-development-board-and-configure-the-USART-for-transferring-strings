@@ -129,7 +129,8 @@ PUTCHAR_PROTOTYPE
 
 ## Output screen shots of Serial port utility   :
  
- <img width="828" height="422" alt="ex3" src="https://github.com/user-attachments/assets/5e6fc024-3992-4e01-b2f5-8dacb31b1f35" />
+ ![Uploading screenshot_iot.png…]()
+
 
  
  
